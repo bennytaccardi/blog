@@ -46,7 +46,7 @@ export default function Timeline() {
                         <div className="flex justify-start w-full mx-auto items-center">
                             <div className="w-full sm:w-1/2 sm:pr-8">
                                 <div className="p-4 bg-white rounded shadow">
-                                    And I'd like to take a minute, just sit right there,
+                                    And I&aposd like to take a minute, just sit right there,
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@ export default function Timeline() {
                         <div className="flex justify-end w-full mx-auto items-center">
                             <div className="w-full sm:w-1/2 sm:pl-8">
                                 <div className="p-4 bg-white rounded shadow">
-                                    I'll tell you how I became the Prince of a town called Bel Air.
+                                    I&aposll tell you how I became the Prince of a town called Bel Air.
                                 </div>
                             </div>
                         </div>

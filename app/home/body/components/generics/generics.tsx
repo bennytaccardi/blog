@@ -11,11 +11,11 @@ export default function Generics() {
             <TypeAnimation
               sequence={[
                 2000,
-                'I\'m a software engineer', // Types 'One'
+                'I&aposm a software engineer', // Types 'One'
                 2000, // Waits 1s
-                'I\'m a backend engineer', // Deletes 'One' and types 'Two'
+                'I&aposm a backend engineer', // Deletes 'One' and types 'Two'
                 2000, // Waits 2s
-                'I\'m a thinker', // Types 'Three' without deleting 'Two'
+                'I&aposm a thinker', // Types 'Three' without deleting 'Two'
                 () => {
                   console.log('Sequence completed'); // Place optional callbacks anywhere in the array
                 }
