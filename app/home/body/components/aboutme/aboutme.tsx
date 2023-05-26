@@ -4,6 +4,7 @@ export default function Aboutme() {
             <div className="container mx-auto">
                 <h2 className="text-7xl font-bold text-gray-200 mb-4">About Me</h2>
                 <p className="text-gray-600">
+                    
                     Hi, I&aposm [Your Name]! I am a passionate [your profession] with a strong interest in [your interests or expertise].
                     I enjoy creating [something you enjoy creating or working on], and I&aposm always eager to learn and explore new technologies.
                     Through my work, I strive to [your mission or goals].
