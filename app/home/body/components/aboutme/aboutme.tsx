@@ -1,6 +1,6 @@
 export default function Aboutme() {
     return (
-        <section className="py-12">
+        <section className="py-12" id="aboutme">
             <div className="container mx-auto">
                 <h2 className="text-7xl font-bold text-gray-200 mb-4">About Me</h2>
                 <p className="text-gray-600">
