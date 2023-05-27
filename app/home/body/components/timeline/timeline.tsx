@@ -16,7 +16,7 @@ export default function Timeline() {
                                         <p className="text-gray-200 text-base">Unobravo</p>
                                         <p className="text-gray-200 text-xs">[Apr. 2023 - current]</p>
                                         <p className="mt-2">Backend Engineer</p>
-                                        <p className="mt-2">Master's degree</p>
+                                        <p className="mt-2">Master`&apos;`s degree</p>
                                     </div>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@ export default function Timeline() {
                                         <p className="text-gray-200 text-base">Engineering S.p.A.</p>
                                         <p className="text-gray-200 text-xs">[Dec. 2021 - Apr. 2023]</p>
                                         <p className="mt-2">Software Engineer</p>
-                                        <p className="mt-2">Master's degree</p>
+                                        <p className="mt-2">Master`&apos;`s degree</p>
                                     </div>
                                 </div>
                             </div>
@@ -52,7 +52,7 @@ export default function Timeline() {
                                         <p className="text-gray-200 text-base">Vidyasoft</p>
                                         <p className="text-gray-200 text-xs">[Sept. 2020 - Dec. 2021]</p>
                                         <p className="mt-2">Software Engineer</p>
-                                        <p className="mt-2">Master's degree</p>
+                                        <p className="mt-2">Master`&apos;`s degree</p>
                                     </div>
                                 </div>
                             </div>
@@ -70,7 +70,7 @@ export default function Timeline() {
                                     <div className="p-4 bg-white rounded shadow">
                                         <p className="text-gray-200 text-base">University of Salento</p>
                                         <p className="text-gray-200 text-xs">[2019 - 2021]</p>
-                                        <p className="mt-2">Master's degree </p>
+                                        <p className="mt-2">Master`&apos;`s degree </p>
                                     </div>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@ export default function Timeline() {
                                     <div className="p-4 bg-white rounded shadow">
                                         <p className="text-gray-200 text-base">University of Salento</p>
                                         <p className="text-gray-200 text-xs">[2015 - 2019]</p>
-                                        <p className="mt-2">Bachelor's degree</p>
+                                        <p className="mt-2">Bachelor`&apos;`s degree</p>
                                     </div>
                                 </div>
                             </div>
