@@ -11,10 +11,10 @@ const Header = () => {
   const [radioSelection, setRadioSelection] = React.useState(RADIO_ITEMS[2]);
   return (
     <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-  <div className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+    <div className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
     <a className="mr-5 text-white" rel="noopener" href="#aboutme">About me</a>
-    <a className="mr-5 text-white" rel="noopener" href="#experiences">Experiences</a>
-    <a className="mr-5 text-white">Third Link</a>
+    <a className="mr-5 text-white" rel="noopener" href="#careers">Experiences</a>
+    <a className="mr-5 text-white" rel="noopener" href="#education">Education</a>
     <a className="mr-5 text-white">Fourth Link</a>
   </div>
 </div>
