@@ -22,8 +22,8 @@ export default function Timeline() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-10 h-10 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
-                                    <img src="/static/imgs/unobravo.png" alt="Icon" className="w-6 h-6" />
+                                <div className="rounded-full bg-blue-500 border-white border-4 w-17 h-17 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
+                                    <img src="/static/imgs/unobravo.png" alt="Icon" className="w-8 h-8" />
                                 </div>
                             </div>
                         </div>
@@ -40,8 +40,8 @@ export default function Timeline() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-10 h-10 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
-                                    <img src="/static/imgs/engineering.png" alt="Icon" className="w-6 h-6" />
+                                <div className="rounded-full bg-blue-500 border-white border-4 w-17 h-17 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
+                                    <img src="/static/imgs/engineering.png" alt="Icon" className="w-8 h-8" />
                                 </div>
                             </div>
                         </div>
@@ -58,43 +58,8 @@ export default function Timeline() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-10 h-10 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
-                                    <img src="/static/imgs/vidyasoft.png" alt="Icon" className="w-6 h-6" />
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div className="mt-6 sm:mt-0 sm:mb-12">
-                            <div className="flex flex-col sm:flex-row items-center">
-                                <div className="flex justify-start w-full mx-auto items-center">
-                                    <div className="w-full sm:w-1/2 sm:pr-8">
-                                        <div className="p-4 bg-white rounded shadow">
-                                            <p className="text-gray-200 text-base">University of Salento</p>
-                                            <p className="text-gray-200 text-xs">[2019 - 2021]</p>
-                                            <p className="mt-2">Master&apos;s degree </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-10 h-10 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
-                                    <img src="/static/imgs/education.svg" alt="Icon" className="w-6 h-6" />
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="mt-6 sm:mt-0">
-                            <div className="flex flex-col sm:flex-row items-center">
-                                <div className="flex justify-end w-full mx-auto items-center">
-                                    <div className="w-full sm:w-1/2 sm:pl-8">
-                                        <div className="p-4 bg-white rounded shadow">
-                                            <p className="text-gray-200 text-base">University of Salento</p>
-                                            <p className="text-gray-200 text-xs">[2015 - 2019]</p>
-                                            <p className="mt-2">Bachelor&apos;s degree</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-10 h-10 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
-                                    <img src="/static/imgs/education.svg" alt="Icon" className="w-6 h-6" />
+                                <div className="rounded-full bg-blue-500 border-white border-4 w-17 h-17 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
+                                    <img src="/static/imgs/vidyasoft.png" alt="Icon" className="w-8 h-8" />
                                 </div>
                             </div>
                         </div>

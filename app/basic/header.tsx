@@ -15,7 +15,7 @@ const Header = () => {
     <a className="mr-5 text-white" rel="noopener" href="#aboutme">About me</a>
     <a className="mr-5 text-white" rel="noopener" href="#careers">Experiences</a>
     <a className="mr-5 text-white" rel="noopener" href="#education">Education</a>
-    <a className="mr-5 text-white">Fourth Link</a>
+    <a className="mr-5 text-white" rel="noopener" href="#contact">Get in touch</a>
   </div>
 </div>
 

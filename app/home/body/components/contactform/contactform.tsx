@@ -11,26 +11,10 @@ export default function ContactForm() {
       };
 
     return(
-        <div>
-            <h2 className="text-7xl font-bold text-gray-200 mb-4">Download my CV</h2>
-            <form onSubmit={handleSubmit} className="w-full max-w-sm mx-auto">
-            <div className="flex items-center border-b border-b-2 border-teal-500 py-2">
-                <input
-                className="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
-                type="email"
-                placeholder="Enter your email"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                required
-                />
-                <button
-                className="flex-shrink-0 bg-teal-500 hover:bg-teal-700 border-teal-500 hover:border-teal-700 text-sm border-4 text-white py-1 px-2 rounded"
-                type="submit"
-                >
-                Submit
-                </button>
-            </div>
-        </form>
+        <div id="contact">
+            <h2 className="text-7xl font-bold text-gray-200 mb-4">Get in touch</h2>
+            <p>Although I’m not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!</p>
+            <button>Say Hello</button>
         </div>
     );
 }

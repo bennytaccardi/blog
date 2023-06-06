@@ -18,6 +18,9 @@ export default function Body () {
         <div>
             <Education />
         </div>
+        <div>
+            <ContactForm />
+        </div>
         </>
     );
 }
