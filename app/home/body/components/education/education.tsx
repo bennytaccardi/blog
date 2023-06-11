@@ -12,7 +12,7 @@ export default function Education() {
                             <div
                                 className="mb-10 ml-10 block max-w-md rounded-lg bg-neutral-50 p-6 shadow-md shadow-black/5 dark:bg-neutral-700 dark:shadow-black/10">
                                 <div className="mb-1 flex justify-between">
-                                    <p className="text-lg font-bold">Master's degree</p>
+                                    <p className="text-lg font-bold">Master&apos;s degree</p>
                                     <p className="text-gray-500 text-lg font-extralight">2019 - 2021</p>
                                 </div>
                                 <div className="mb-4 flex justify-between">
@@ -37,7 +37,7 @@ export default function Education() {
                             <div
                                 className="mb-10 ml-10 block max-w-md rounded-lg bg-neutral-50 p-6 shadow-md shadow-black/5 dark:bg-neutral-700 dark:shadow-black/10">
                                 <div className="mb-1 flex justify-between">
-                                    <p className="text-lg font-bold">Bachelor's degree</p>
+                                    <p className="text-lg font-bold">Bachelor&apos;s degree</p>
                                     <p className="text-gray-500 text-lg font-extralight">2015 - 2019</p>
                                 </div>
                                 <div className="mb-4 flex justify-between">
