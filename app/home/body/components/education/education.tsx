@@ -2,7 +2,7 @@ export default function Education() {
     return (
         <div id="education">
             <h2 className="text-7xl font-bold text-gray-200 mb-4">Education</h2>
-            <div className="border-l-2 border-info-100">
+            <div className="border-l-2 border-info-100  sm:max-w-xl sm:mx-auto w-full sm:px-0">
                 <ol>
                     <li>
                         <div className="flex flex-col md:flex-row">

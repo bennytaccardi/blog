@@ -1,9 +1,9 @@
 export default function Timeline() {
     return (
-        <div id="careers" className="py-9 sm:max-w-xl sm:mx-auto w-full sm:px-0">
+        <div id="careers" className="container mx-auto">
             <h2 className="text-4xl sm:text-7xl font-bold text-gray-200 mb-4">Careers</h2>
 
-            <div className="border-l-2 border-info-100">
+            <div className="border-l-2 border-info-100 sm:max-w-xl sm:mx-auto w-full sm:px-0">
                 <ol>
                     <li>
                         <div className="flex flex-col md:flex-row">
