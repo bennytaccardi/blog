@@ -1,6 +1,7 @@
 import React from 'react';
 import './styles.css';
 import Generics from '../generics/generics';
+import TypeComponent from '../generics/type-component/type-component';
 
 export default function ProfileAvatar() {
     return (
@@ -41,9 +42,10 @@ export default function ProfileAvatar() {
                 </svg>
 
             </div>
+            <hr className="m-5 h-0.5 w-full border-t-0 bg-neutral-100 opacity-100 dark:opacity-50 bg-purple-800" />
+            <Generics />
             <div className="mt-8">
-                <hr className="h-0.5 border-t-0 bg-neutral-100 opacity-100 dark:opacity-50 bg-purple-800" />
-                <Generics />
+                <TypeComponent />
             </div>
         </div>
 
