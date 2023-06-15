@@ -4,11 +4,11 @@ export default function Timeline() {
             <div className="max-w-screen-lg mx-auto">
                 <h2 className="text-4xl sm:text-7xl font-bold text-gray-200 text-center mb-20">Careers</h2>
 
-                <div className="border-l-2 border-info-100 sm:max-w-xl sm:mx-auto w-full sm:px-0">
+                <div className="border-l-2 border-info-100 sm:max-w-xl sm:mx-auto w-full sm:px-0 ">
                     <ol>
                         <li>
-                            <div className="flex flex-col md:flex-row">
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
+                            <div className="flex flex-col md:flex-row" >
+                                <div className="rounded-full bg-zinc-800 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
                                     <img src="/static/imgs/unobravo.png" alt="Icon" className="w-6 sm:w-8 h-6 sm:h-8" />
                                 </div>
                                 <div className="mb-6 md:ml-10 block max-w-md rounded-lg bg-neutral-50 p-4 sm:p-6 shadow-md shadow-black/5 dark:bg-neutral-700 dark:shadow-black/10">
@@ -29,7 +29,7 @@ export default function Timeline() {
 
                         <li>
                             <div className="flex flex-col md:flex-row">
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
+                                <div className="rounded-full bg-zinc-800 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
                                     <img src="/static/imgs/engineering.png" alt="Icon" className="w-6 sm:w-8 h-6 sm:h-8" />
                                 </div>
                                 <div className="mb-6 md:ml-10 block max-w-md rounded-lg bg-neutral-50 p-4 sm:p-6 shadow-md shadow-black/5 dark:bg-neutral-700 dark:shadow-black/10">
@@ -50,7 +50,7 @@ export default function Timeline() {
 
                         <li>
                             <div className="flex flex-col md:flex-row">
-                                <div className="rounded-full bg-blue-500 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
+                                <div className="rounded-full bg-zinc-800 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
                                     <img src="/static/imgs/vidyasoft.png" alt="Icon" className="w-6 sm:w-8 h-6 sm:h-8" />
                                 </div>
                                 <div className="mb-6 md:ml-10 block max-w-md rounded-lg bg-neutral-50 p-4 sm:p-6 shadow-md shadow-black/5 dark:bg-neutral-700 dark:shadow-black/10">

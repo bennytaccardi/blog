@@ -6,7 +6,7 @@ import TypeComponent from '../generics/type-component/type-component';
 export default function ProfileAvatar() {
     return (
         <div className="flex flex-col items-center justify-center mt-10">
-            <div className="p-1 grid place-items-center bg-gradient-to-r from-violet-400 via-blue-900 to-teal-500 rounded-2xl">
+            <div className="p-1 grid place-items-center bg-gradient-to-r from-violet-400 via-blue-900 to-teal-500 background-animate rounded-2xl">
                 <img
                     className="relative inline-block h-72 w-72 rounded-2xl object-cover object-center shadow-lg"
                     alt="Image placeholder"
@@ -50,7 +50,7 @@ export default function ProfileAvatar() {
 
 
             </div>
-            <hr className="m-5 h-0.5 w-full border-t-0 bg-neutral-100 opacity-100 dark:opacity-50 bg-gradient-to-r from-violet-400 via-blue-900 to-teal-500" />
+            <hr className="m-5 h-0.5 w-full border-t-0 bg-neutral-100 opacity-100 dark:opacity-50 bg-gradient-to-r from-teal-500 via-blue-900 to-violet-400 background-animate" />
             <Generics />
             <div className="mt-8">
                 <TypeComponent />
