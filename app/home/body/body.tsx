@@ -8,7 +8,7 @@ import Timeline from "./components/timeline/timeline";
 export default function Body() {
     return (
         <div className="w-screen">
-            <div className="h-screen m-7">
+            <div className="h-screen md:h-auto xl:h-screen m-7">
                 <ProfileAvatar />
             </div>
             <div className="m-7">
