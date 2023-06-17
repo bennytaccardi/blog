@@ -20,9 +20,14 @@ export default function Timeline() {
                                         <p className="text-sm text-gray-600 font-bold">Backend Engineer</p>
                                     </div>
                                     <p className="mb-4 text-neutral-700 dark:text-neutral-200">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et
-                                        elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula.
+                                        Unobravo is the first online psychology service formed by a diverse team of psychologists and psychotherapists who work solely by video call, at a distance, thus making the service flexible, accessible and more convenient.
                                     </p>
+                                    <ul className="mb-4 italic text-neutral-700 dark:text-neutral-200">
+                                        <li>NodeJS, Typescript, Javascript</li>
+                                        <li>AWS</li>
+                                        <li>CI/CD using GitHub Actions</li>
+                                        <li>Scrum</li>
+                                    </ul>
                                 </div>
                             </div>
                         </li>
@@ -41,9 +46,16 @@ export default function Timeline() {
                                         <p className="text-sm text-gray-600 font-bold">Software Engineer</p>
                                     </div>
                                     <p className="mb-4 text-neutral-700 dark:text-neutral-200">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et
-                                        elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula.
+                                        Engineering S.p.A. is one of the largest consulting companies in Italy. In particular, I have worked in the area of R&D.
                                     </p>
+                                    <ul className="mb-4 italic text-neutral-700 dark:text-neutral-200">
+                                        <li>FastAPI, Python, SpringBoot, Java, GeoPandas</li>
+                                        <li>Angular, React</li>
+                                        <li>Apache Superset</li>
+                                        <li>Postgres, PostGIS</li>
+                                        <li>Docker, VMWare</li>
+                                        <li>Postgres, PostGIS. QGis</li>
+                                    </ul>
                                 </div>
                             </div>
                         </li>
@@ -62,9 +74,14 @@ export default function Timeline() {
                                         <p className="text-sm text-gray-600 font-bold">Software Engineer</p>
                                     </div>
                                     <p className="mb-4 text-neutral-700 dark:text-neutral-200">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et
-                                        elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula.
+                                        Vidyasoft s.r.l is a fintech consultancy company which is mainly focuse on cloud and IoT solutions for finance. During my years in Vidyasoft, is developed a deep-learning based fraud detection algorithm that could be found <a href="https://www.mdpi.com/1758766" className="text-blue-500 underline">here</a>.
                                     </p>
+                                    <ul className="mb-4 italic text-neutral-700 dark:text-neutral-200">
+                                        <li>SpringBoot, Angular, Python</li>
+                                        <li>SQServer, Docker</li>
+                                        <li>DialogFlow</li>
+                                        <li>PyTorch</li>
+                                    </ul>
                                 </div>
                             </div>
                         </li>
