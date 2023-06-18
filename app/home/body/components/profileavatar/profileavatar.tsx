@@ -15,7 +15,7 @@ export default function ProfileAvatar() {
 
             </div>
             <div className="mt-6 flex flex-wrap justify-center">
-                <a href='https://github.com/bennytaccardi' target='blank'>
+                <a href='https://github.com/bennytaccardi' target='blank' className='hover:scale-150 ease-in duration-300'>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         className="m-2 h-10 w-10 github"
@@ -26,7 +26,7 @@ export default function ProfileAvatar() {
                     </svg>
                 </a>
 
-                <a href='https://www.linkedin.com/in/benito-taccardi/' target='blank'>
+                <a href='https://www.linkedin.com/in/benito-taccardi/' target='blank' className='hover:scale-150 ease-in duration-300'>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         className="m-2 h-10 w-10 linkedin"
@@ -38,7 +38,7 @@ export default function ProfileAvatar() {
                 </a>
 
 
-                <a href="mailto:benny.taccardi@gmail.com">
+                <a href="mailto:benny.taccardi@gmail.com" className='hover:scale-150 ease-in duration-300'>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         className="m-2 h-10 w-10"

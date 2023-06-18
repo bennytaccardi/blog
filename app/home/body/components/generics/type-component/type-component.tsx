@@ -10,9 +10,10 @@ export default function TypeComponent() {
             ">
             <Typed
                 strings={[
-                    "I'm a Full Stack Developer",
+                    "I&apos;m a Backend Engineer",
                     "I Love Software Development",
-                    "I Love All My Subscribers",
+                    "I&apos;m a Full Stack Engineer",
+                    "I&apos;m a tech addicted",
                 ]}
                 typeSpeed={75}
                 backSpeed={60}

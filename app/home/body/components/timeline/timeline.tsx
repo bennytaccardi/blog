@@ -7,7 +7,7 @@ export default function Timeline() {
                 <div className="border-l-2 border-info-100 sm:max-w-xl sm:mx-auto w-full sm:px-0 ">
                     <ol>
                         <li>
-                            <div className="flex flex-col md:flex-row" >
+                            <div className="flex flex-col md:flex-row">
                                 <div className="rounded-full bg-zinc-800 border-white border-4 w-12 sm:w-17 h-12 sm:h-17 absolute -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
                                     <img src="/static/imgs/unobravo.png" alt="Icon" className="w-6 sm:w-8 h-6 sm:h-8" />
                                 </div>
@@ -20,8 +20,7 @@ export default function Timeline() {
                                         <p className="text-sm text-gray-600 font-bold">Backend Engineer</p>
                                     </div>
                                     <p className="mb-4 text-neutral-700 dark:text-neutral-200">
-                                        Unobravo is the first online psychology service formed by a diverse team of psychologists and psychotherapists who work solely by video call, at a distance, thus making the service flexible, accessible and more convenient.
-                                    </p>
+                                        Unobravo is the first online psychology service formed by a diverse team of psychologists and psychotherapists who exclusively work through video calls, providing a flexible, accessible, and convenient service.                                    </p>
                                     <ul className="mb-4 italic text-neutral-700 dark:text-neutral-200">
                                         <li>NodeJS, Typescript, Javascript</li>
                                         <li>AWS</li>
@@ -46,8 +45,7 @@ export default function Timeline() {
                                         <p className="text-sm text-gray-600 font-bold">Software Engineer</p>
                                     </div>
                                     <p className="mb-4 text-neutral-700 dark:text-neutral-200">
-                                        Engineering S.p.A. is one of the largest consulting companies in Italy. In particular, I have worked in the area of R&D.
-                                    </p>
+                                        Engineering S.p.A. is one of the largest consulting companies in Italy, specializing in various areas. In my case, I have worked specifically in the field of Research and Development (R&D).                                    </p>
                                     <ul className="mb-4 italic text-neutral-700 dark:text-neutral-200">
                                         <li>FastAPI, Python, SpringBoot, Java, GeoPandas</li>
                                         <li>Angular, React</li>
@@ -74,7 +72,7 @@ export default function Timeline() {
                                         <p className="text-sm text-gray-600 font-bold">Software Engineer</p>
                                     </div>
                                     <p className="mb-4 text-neutral-700 dark:text-neutral-200">
-                                        Vidyasoft s.r.l is a fintech consultancy company which is mainly focuse on cloud and IoT solutions for finance. During my years in Vidyasoft, is developed a deep-learning based fraud detection algorithm that could be found <a href="https://www.mdpi.com/1758766" className="text-blue-500 underline">here</a>.
+                                        Vidyasoft s.r.l is a fintech consultancy company that primarily focuses on cloud and IoT solutions for finance. During my time at Vidyasoft, I developed a deep-learning-based fraud detection algorithm, which can be found <a href="https://www.mdpi.com/1758766" className="text-blue-500 underline">here</a>.
                                     </p>
                                     <ul className="mb-4 italic text-neutral-700 dark:text-neutral-200">
                                         <li>SpringBoot, Angular, Python</li>
